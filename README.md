@@ -7,11 +7,11 @@
 6.
 7.
 
-**Instructor**: Dr. Eric Maniraguha
-**Institution**: Adventist University of Central Africa
+**Instructor**:Dr. Eric Maniraguha
+**Institution**:Adventist University of Central Africa
 **Course Name**:Introduction to Big Data Analytics 
-**Course Code**: INSY 8413.
-**Date**: 6th, July,2025.
+**Course Code**:INSY 8413.
+**Date**:6th, July,2025.
 
 
 # 🧠 Python Quiz – Big Data Analytics (INSY 8413)
