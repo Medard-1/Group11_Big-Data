@@ -3,9 +3,10 @@
 2. MUPENZI Serge 25181
 3. Aimable Bimenyimana 25094
 4. NTWARI Deus 25048
+   
+5.ISHIMWE Honore 26578
 
-6.ISHIMWE Honore 26578
-7.
+6.
 
 **Instructor**:Dr. Eric Maniraguha
 **Institution**:Adventist University of Central Africa
