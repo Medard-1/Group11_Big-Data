@@ -47,47 +47,46 @@ def check_palindrome():
 # Run the function
 check_palindrome()
 
----
+```
 
-## ❓ Question III: Iterating Over Two Text Inputs ✍️🔡
+## ❓ Question III: Iterate Over Two Text Inputs ✍️🔡
 
 **Description:**
 Write a Python function that:
- Asks the user to **enter two separate texts**.
- Combines the two texts into one.
- Iterates over each character in the combined text and returns a list of characters.
- Prints a thank-you message.
+
+Asks the user to enter two separate texts.
+
+Combines the two texts into one.
+
+Iterates over each character in the combined text and returns a list of characters.
+
+Prints a thank-you message.
 
 ### ✅ Requirements:
 Use input() to get user input.
 
-Use a function to perform the task
-
-Return the list of characters obtained from the combined text.
+Use a function and return the list of characters.
 
 Display the message Thank you for using my application; on the console.
 
-🧾 Solution (Python Code):
+### 🧾 Solution (Python Code):
 ```python
 
     text1 = input("Enter the first text: ")
     text2 = input("Enter the second text: ")
-
-  def process_texts(text1,str; text2,str):
+ def process_texts(text1,str ; text2,str):
     combined = text1 + text2
     characters = [char for char in combined]
 
-    # Thank-you message
     print("\nThank you for using my application;")
+    
 
     return characters
 
-   # Run the function
-   result = process_texts(text1, text2)
-   print("Characters in the combined text:", result)
----
+     # Run the function
+  result = process_texts(text1 , text2)
+  print("Characters in the combined text:", result)
 
-
-                                             # THANK YOU
-
+```
+# THANK YOU
 
