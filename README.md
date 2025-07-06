@@ -48,7 +48,7 @@ def check_palindrome():
 # Run the function
 check_palindrome()
 
-
+---
 ## ❓ Question III: Iterating Over Two Text Inputs ✍️🔡
 **Description:**
 Write a Python function that:
@@ -71,7 +71,7 @@ Return the list of characters obtained from the combined text.
 Display the message Thank you for using my application; on the console.
 
 🧾 Solution (Python Code):
-```
+```python
 
     text1 = input("Enter the first text: ")
     text2 = input("Enter the second text: ")
@@ -85,9 +85,10 @@ Display the message Thank you for using my application; on the console.
 
     return characters
 
-# Run the function
-result = process_texts(text1, text2)
-print("Characters in the combined text:", result)
+   # Run the function
+   result = process_texts(text1, text2)
+   print("Characters in the combined text:", result)
+---
 
 
                                              # THANK YOU
