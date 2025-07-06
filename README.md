@@ -1,7 +1,7 @@
 # GROUP 11 MEMBERS
 1.MUSINGUZI Medard 26601
 2.MUPENZI Serge 25181
-3.Bimenyimana Aimable 25094
+3.Aimable Bimenyimana 25094
 4.
 5.
 6.
