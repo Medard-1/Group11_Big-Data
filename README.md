@@ -1,8 +1,8 @@
 # GROUP 11 MEMBERS
-1.MUSINGUZI Medard 26601
-2.MUPENZI Serge 25181
-3.Aimable Bimenyimana 25094
-4.NTWARI Deus 25048
+1. MUSINGUZI Medard 26601
+2. MUPENZI Serge 25181
+3. Aimable Bimenyimana 25094
+4. NTWARI Deus 25048
 5.
 6.
 7.
