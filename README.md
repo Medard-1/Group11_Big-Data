@@ -3,16 +3,14 @@
 2. MUPENZI Serge 25181
 3. Aimable Bimenyimana 25094
 4. NTWARI Deus 25048
-   
-5.ISHIMWE Honore 26578
-
+5. ISHIMWE Honore 26578
 6.
 
-**Instructor**:Dr. Eric Maniraguha
-**Institution**:Adventist University of Central Africa
-**Course Name**:Introduction to Big Data Analytics 
-**Course Code**:INSY 8413.
-**Date**:6th, July,2025.
+**Instructor**: Dr. Eric Maniraguha
+**Institution**: Adventist University of Central Africa
+**Course Name**: Introduction to Big Data Analytics 
+**Course Code**: INSY 8413.
+**Date**: 6th, July,2025.
 
 
 # 🧠 Python Quiz – Big Data Analytics (INSY 8413)
@@ -50,19 +48,17 @@ def check_palindrome():
 check_palindrome()
 
 ---
+
 ## ❓ Question III: Iterating Over Two Text Inputs ✍️🔡
+
 **Description:**
 Write a Python function that:
+ Asks the user to **enter two separate texts**.
+ Combines the two texts into one.
+ Iterates over each character in the combined text and returns a list of characters.
+ Prints a thank-you message.
 
-Asks the user to **enter two separate texts**.
-
-Combines the two texts into one.
-
-Iterates over each character in the combined text and returns a list of characters.
-
-Prints a thank-you message.
-
-✅ Requirements:
+### ✅ Requirements:
 Use input() to get user input.
 
 Use a function to perform the task
