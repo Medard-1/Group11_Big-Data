@@ -9,12 +9,12 @@
 
 
 ---
-### 
-**Instructor**: Dr. Eric Maniraguha
-**Institution**: Adventist University of Central Africa
-**Course Name**: Introduction to Big Data Analytics 
-**Course Code**: INSY 8413.
-**Date**: 6th, July,2025.
+ 
+#### **Instructor**: Dr. Eric Maniraguha
+#### **Institution**: Adventist University of Central Africa
+#### **Course Name**: Introduction to Big Data Analytics 
+#### **Course Code**: INSY 8413.
+#### **Date**: 6th, July,2025.
 ---
 
 # 🧠 Python Quiz – Big Data Analytics (INSY 8413)
@@ -26,7 +26,7 @@ This project contains solutions to two tasks of an in-class group work
 ## ❓ Question II: Palindrome Checker 🔁
 
 **Description:**  
-Write a function that asks the user to input a string and checks if the string is a **palindrome** (reads the same forwards and backwards).Print "Yes,it is a palindrone"
+We were taske to write a function that asks the user to input a string and checks if the string is a **palindrome** (reads the same forwards and backwards).Prints "Yes,it is a palindrone"
 or "No, it is not a palindrone"
 
 ### ✅ Requirements:
@@ -52,6 +52,8 @@ def check_palindrome():
 check_palindrome()
 
 ```
+![Running code](![qn2](https://github.com/user-attachments/assets/2b695a97-0f5e-4e25-a93a-36fb553a3235)
+)
 
 ## ❓ Question III: Iterate Over Two Text Inputs ✍️🔡
 
@@ -67,30 +69,29 @@ Iterates over each character in the combined text and returns a list of characte
 Prints a thank-you message.
 
 ### ✅ Requirements:
+
 Use input() to get user input.
-
 Use a function and return the list of characters.
-
+Return the list of characters obtained from the combined text
 Display the message Thank you for using my application; on the console.
 
 ### 🧾 Solution (Python Code):
 ```python
 
+   def process_texts(): 
     text1 = input("Enter the first text: ")
     text2 = input("Enter the second text: ")
- def process_texts(text1,str ; text2,str):
     combined = text1 + text2
-    characters = [char for char in combined]
+    characters = [char for char in combined]  # creates a list of characters
 
-    print("\nThank you for using my application;")
-    
+    print("\nThank you for using my application;")  # Displays the message 
+    print("Characters in the combined text:", characters)
 
-    return characters
-
-     # Run the function
-  result = process_texts(text1 , text2)
-  print("Characters in the combined text:", result)
+# Run the function
+process_texts()
 
 ```
+![Running code](![qn3](https://github.com/user-attachments/assets/225454c1-bffe-4021-8426-bbfc682309c8)
+)
 # THANK YOU
 
