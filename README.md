@@ -126,7 +126,7 @@ process_texts(text1, text2)
 
 ```
 ### Running Code
-(![Running Code](https://github.com/user-attachments/assets/225454c1-bffe-4021-8426-bbfc682309c8)
-)
+![qn3](https://github.com/user-attachments/assets/6d1abc83-f261-4e7c-ab59-8bdd7271bb07)
+
 # THANK YOU
 
