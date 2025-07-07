@@ -19,9 +19,38 @@
 
 # 🧠 Python Quiz – Big Data Analytics (INSY 8413)
 
-This project contains solutions to two tasks of an in-class group work 
+This quiz represents a practical application of fundamental Python programming concepts within the context of data analytics. As part of our coursework in INSY 8413 – Introduction to Big Data Analytics at the Adventist University of Central Africa, our group was tasked with solving real-world inspired coding problems using Python.
 
----
+# 🎯 Objectives of the Quiz
+- Apply Python functions to solve modular problems
+
+- Demonstrate the use of input/output handling
+
+- Build clean, user-friendly console applications
+
+- Reinforce the importance of code structure, return values, and indentation
+
+  # 💻 Tools and Skills Used
+- Python 3.x
+
+- Programiz
+
+- Console-based input/output
+
+- String slicing and looping
+
+- List comprehension
+
+- Function definition,call and return values
+
+  # 👨‍👩‍👧‍👦 Group Collaboration
+This was a collaborative group effort, with each member contributing to designing, testing, and refining the solutions. We discussed logic, shared feedback, and ensured each function met the assignment’s criteria while maintaining clean coding practices.
+
+
+---  
+
+
+
 
 ## ❓ Question II: Palindrome Checker 🔁
 
@@ -55,6 +84,7 @@ def check_palindrome():
 check_palindrome()
 
 ```
+### Running Code
 (![Running Code](https://github.com/user-attachments/assets/2b695a97-0f5e-4e25-a93a-36fb553a3235)
 )
 
@@ -94,6 +124,7 @@ Prints a thank-you message.
 process_texts()
 
 ```
+### Running Code
 (![Running Code](https://github.com/user-attachments/assets/225454c1-bffe-4021-8426-bbfc682309c8)
 )
 # THANK YOU
