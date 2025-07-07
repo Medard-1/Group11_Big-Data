@@ -87,8 +87,8 @@ check_palindrome()
 <br>
 
 ### Running Code
-(![Running Code](https://github.com/user-attachments/assets/2b695a97-0f5e-4e25-a93a-36fb553a3235)
-)
+![Running Code](https://github.com/user-attachments/assets/2b695a97-0f5e-4e25-a93a-36fb553a3235)
+
 
 <br>
 <br>
