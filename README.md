@@ -30,7 +30,7 @@ This quiz represents a practical application of fundamental python programming c
 
 - Reinforce the importance of code structure, return values, and indentation
 
-  # 💻 Tools and Skills Used
+# 💻 Tools and Skills Used
 - Python 3.x
 
 - Programiz
@@ -43,14 +43,14 @@ This quiz represents a practical application of fundamental python programming c
 
 - Function definition,call and return values
 
-  # 👨‍👩‍👧‍👦 Group Collaboration
+# 👨‍👩‍👧‍👦 Group Collaboration
 This was a collaborative group effort, with each member contributing to designing, testing, and refining the solutions. We discussed logic, shared feedback, and ensured each function met the assignment’s criteria while maintaining clean coding practices.
 
 
 ---  
 
 
-
+<br>
 
 ## ❓ Question II: Palindrome Checker 🔁
 
@@ -84,9 +84,14 @@ def check_palindrome():
 check_palindrome()
 
 ```
+<br>
+
 ### Running Code
 (![Running Code](https://github.com/user-attachments/assets/2b695a97-0f5e-4e25-a93a-36fb553a3235)
 )
+
+<br>
+<br>
 
 ## ❓ Question III: Iterate Over Two Text Inputs ✍️🔡
 
@@ -125,8 +130,12 @@ def process_texts(text1:str, text2:str) -> str:
 process_texts(text1, text2)
 
 ```
+<br>
+
 ### Running Code
 ![qn3](https://github.com/user-attachments/assets/6d1abc83-f261-4e7c-ab59-8bdd7271bb07)
+
+<br>
 
 # THANK YOU
 
