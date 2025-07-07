@@ -56,7 +56,7 @@ This was a collaborative group effort, with each member contributing to designin
 
 **Description:**  
 We were tasked to write a function that asks the user to input a string and checks if the string is a **palindrome** (reads the same forwards and backwards).Prints "Yes,it is a palindrone"
-or "No, it is not a palindrone"
+or "No, it is not a palindrome"
 
 ### ✅ Requirements:
 - Use `input()` to get user input.
@@ -91,15 +91,16 @@ check_palindrome()
 ## ❓ Question III: Iterate Over Two Text Inputs ✍️🔡
 
 **Description:**
-Write a Python function that:
 
-Asks the user to enter two separate texts.
+We are to write a Python function that:
 
-Combines the two texts into one.
+- Asks the user to enter two separate texts.
 
-Iterates over each character in the combined text and returns a list of characters.
+- Combines the two texts into one.
 
-Prints a thank-you message.
+- Iterates over each character in the combined text and returns a list of characters.
+
+- Prints a thank-you message on console.
 
 ### ✅ Requirements:
 
