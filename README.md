@@ -112,17 +112,17 @@ We are to write a Python function that:
 ### 🧾 Solution (Python Code):
 ```python
 
-   def process_texts(): 
-    text1 = input("Enter the first text: ")
-    text2 = input("Enter the second text: ")
+text1 = input("Enter the first text: ")
+text2 = input("Enter the second text: ")
+
+def process_texts(text1:str, text2:str) -> str: 
     combined = text1 + text2
     characters = [char for char in combined]  # creates a list of characters
-
-    print("\nThank you for using my application;")  # Displays the message 
     print("Characters in the combined text:", characters)
+    print("\nThank you for using my application;")  # Displays the message 
 
 # Run the function
-process_texts()
+process_texts(text1, text2)
 
 ```
 ### Running Code
