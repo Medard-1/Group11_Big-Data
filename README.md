@@ -19,7 +19,7 @@
 
 # 🧠 Python Quiz – Big Data Analytics (INSY 8413)
 
-This quiz represents a practical application of fundamental Python programming concepts within the context of data analytics. As part of our coursework in INSY 8413 – Introduction to Big Data Analytics at the Adventist University of Central Africa, our group was tasked with solving real-world inspired coding problems using Python.
+This quiz represents a practical application of fundamental python programming concepts within the context of data analytics. As part of our coursework in INSY 8413 – Introduction to Big Data Analytics at the Adventist University of Central Africa, our group was tasked with solving real-world inspired coding problems using Python.
 
 # 🎯 Objectives of the Quiz
 - Apply Python functions to solve modular problems
