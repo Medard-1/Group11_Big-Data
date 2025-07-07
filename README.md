@@ -139,3 +139,6 @@ process_texts(text1, text2)
 
 # THANK YOU
 
+
+**“Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up.”**  
+ — *Ecclesiastes 4:9–10 (NIV)*
