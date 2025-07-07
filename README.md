@@ -26,7 +26,7 @@ This project contains solutions to two tasks of an in-class group work
 ## ❓ Question II: Palindrome Checker 🔁
 
 **Description:**  
-We were taske to write a function that asks the user to input a string and checks if the string is a **palindrome** (reads the same forwards and backwards).Prints "Yes,it is a palindrone"
+We were tasked to write a function that asks the user to input a string and checks if the string is a **palindrome** (reads the same forwards and backwards).Prints "Yes,it is a palindrone"
 or "No, it is not a palindrone"
 
 ### ✅ Requirements:
@@ -34,8 +34,11 @@ or "No, it is not a palindrone"
 - Use a function to perform the task.
 
 ### 🧪 Example:
-Input: "madam"
-Output: Yes, it is a palindrome
+- Input: "madam"
+- Output: Yes, it is a palindrome
+- OR
+- Input: "run"
+- Output: No, it is not a palindrone
 
 
 
@@ -52,7 +55,7 @@ def check_palindrome():
 check_palindrome()
 
 ```
-(![qn2](https://github.com/user-attachments/assets/2b695a97-0f5e-4e25-a93a-36fb553a3235)
+(![Running Code](https://github.com/user-attachments/assets/2b695a97-0f5e-4e25-a93a-36fb553a3235)
 )
 
 ## ❓ Question III: Iterate Over Two Text Inputs ✍️🔡
@@ -70,10 +73,10 @@ Prints a thank-you message.
 
 ### ✅ Requirements:
 
-Use input() to get user input.
-Use a function and return the list of characters.
-Return the list of characters obtained from the combined text
-Display the message Thank you for using my application; on the console.
+- Use input() to get user input.
+- Use a function and return the list of characters.
+- Return the list of characters obtained from the combined text
+- Display the message Thank you for using my application; on the console.
 
 ### 🧾 Solution (Python Code):
 ```python
@@ -91,7 +94,7 @@ Display the message Thank you for using my application; on the console.
 process_texts()
 
 ```
-(![qn3](https://github.com/user-attachments/assets/225454c1-bffe-4021-8426-bbfc682309c8)
+(![Running Code](https://github.com/user-attachments/assets/225454c1-bffe-4021-8426-bbfc682309c8)
 )
 # THANK YOU
 
