@@ -52,7 +52,7 @@ def check_palindrome():
 check_palindrome()
 
 ```
-![Running code](![qn2](https://github.com/user-attachments/assets/2b695a97-0f5e-4e25-a93a-36fb553a3235)
+(![qn2](https://github.com/user-attachments/assets/2b695a97-0f5e-4e25-a93a-36fb553a3235)
 )
 
 ## ❓ Question III: Iterate Over Two Text Inputs ✍️🔡
@@ -91,7 +91,7 @@ Display the message Thank you for using my application; on the console.
 process_texts()
 
 ```
-![Running code](![qn3](https://github.com/user-attachments/assets/225454c1-bffe-4021-8426-bbfc682309c8)
+(![qn3](https://github.com/user-attachments/assets/225454c1-bffe-4021-8426-bbfc682309c8)
 )
 # THANK YOU
 
