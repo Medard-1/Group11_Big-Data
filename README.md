@@ -142,6 +142,12 @@ process_texts(text1, text2)
 
 <br>
 
+###### _Explanation:_
+This Python script takes two inputs `Group` and `Assignment` combines them, and prints each character in a list.
+It outputs: `['G', 'r', 'o', 'u', 'p', 'A', 's', 's', 'i', 'g', 'n', 'm', 'e', 'n', 't']` followed by a thank-you message.
+
+<br>
+
 # THANK YOU
 
 
