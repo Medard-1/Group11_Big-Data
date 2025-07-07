@@ -4,8 +4,8 @@
 3. Aimable Bimenyimana 25094
 4. NTWARI Deus 25048
 5. ISHIMWE Honore 26578
-6.
-7.
+6. Pacifique HARERIMANA 26937
+
 
 ---
 ### 
