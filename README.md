@@ -89,6 +89,11 @@ check_palindrome()
 ### Running Code
 ![Running Code](https://github.com/user-attachments/assets/2b695a97-0f5e-4e25-a93a-36fb553a3235)
 
+<br>
+
+ ###### _Explanation:_
+ This Python script checks if the input word `refer` is a palindrome by comparing it to its reverse.
+ Since "refer" reads the same forwards and backwards, the program prints `Yes, it is a palindrome`.
 
 <br>
 <br>
